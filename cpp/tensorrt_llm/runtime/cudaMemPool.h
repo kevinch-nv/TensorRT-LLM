@@ -24,7 +24,7 @@ using cudaMemPool_t = CUmemPoolHandle_st*;
 
 namespace tensorrt_llm::runtime
 {
-
+// Adds a comment.
 class CudaMemPool
 {
 public:
